@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1043809694464",
+    "project_id": "epharmaappye-d7561",
+    "storage_bucket": "epharmaappye-d7561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043809694464:android:77d9193456e655591ef9e5",
+        "android_client_info": {
+          "package_name": "com.aliMohammed.epharmaappy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLFdp7HgRmuMQM3-SGwBms0ehsTzQunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043809694464:android:f545640fa80ad0cf1ef9e5",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLFdp7HgRmuMQM3-SGwBms0ehsTzQunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043809694464:android:1ecc32982e04e4061ef9e5",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLFdp7HgRmuMQM3-SGwBms0ehsTzQunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043809694464:android:0ee91df503a03d661ef9e5",
+        "android_client_info": {
+          "package_name": "com.example.ecommercecourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLFdp7HgRmuMQM3-SGwBms0ehsTzQunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
